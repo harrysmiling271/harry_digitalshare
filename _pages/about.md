@@ -4,6 +4,7 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+*This is a useful page for me to share my thoughts*
 
-Feel free to tell the world about what you love! 😍
+Mình là Tiến Văn (Harry). 
+Mình muốn chia sẻ những suy nghĩ, góc nhìn thú vị đến với mọi người! 😍
